@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificacionesAndroid</string>
+    <string name="notification_title">Título de la notificación</string>
+</resources>
