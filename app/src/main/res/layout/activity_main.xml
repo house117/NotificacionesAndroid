@@ -15,7 +15,7 @@
         tools:layout_editor_absoluteX="114dp" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/notification_action_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="NOTIFICACIÓN CON BOTONES DE ACCIÓN"
@@ -26,7 +26,7 @@
         android:id="@+id/button3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button"
-        app:layout_constraintTop_toBottomOf="@+id/button2"
+        android:text="NOTIFICACIÓN CON ACCIÓN DIRECTA"
+        app:layout_constraintTop_toBottomOf="@+id/notification_action_button"
         tools:layout_editor_absoluteX="0dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
